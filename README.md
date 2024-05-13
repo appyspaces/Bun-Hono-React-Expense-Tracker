@@ -27,3 +27,4 @@ Related Resources from Sam Meech-Ward:
 [1]: https://app.eraser.io/workspace/EsxbsS4v2g7Otkihy95b
 [2]: https://www.youtube.com/watch?v=jXyTIQOfTTk
 [unit-testing-javascript]: https://www.sammeechward.com/how-to-start-writing-unit-tests-programming-javascript-webdevelopment
+[article:FS-AWS]: https://www.sammeechward.com/deploying-full-stack-js-to-aws-ec2
